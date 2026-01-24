@@ -1,0 +1,19 @@
+name: Question
+description: Ask a usage or clarification question
+title: "[Question]: "
+labels: ["type:question", "status:triage"]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+      description: What do you want to know?
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Optional: what you tried, links, logs.
+    validations:
+      required: false
