@@ -1,30 +1,23 @@
-# UCLA TAMS Lab
+<p align="center">
+  <a href="https://chentangmark.github.io/lab/">
+    <img src="./assets/tams-logo.png" alt="TAMS Lab logo" width="600">
+  </a>
+</p>
 
-We build **human-centered autonomous systems**—methods that make autonomy **safe, reliable, and useful around people**.
+# TAMS Lab at UCLA
 
-## Research themes
-- **Human-centered autonomy & interaction** (decision-making around humans, preference-aware control)
-- **Safety & robustness** (risk-aware planning/control, uncertainty, robustness evaluation)
-- **Learning for autonomy** (prediction, planning, diffusion/sequence models, simulation-to-real)
+The **Trustworthy Autonomous Mobility System (TAMS) Lab** at UCLA develops
+the path from advances in AI to real-world autonomy. We develop methods at the
+intersection of AI, robotics, and control, with applications in autonomous
+driving, social robot navigation, and manipulation.
 
-## How this org is organized
-- **Project code**: `project-<slug>`
-- **Project pages**: `project-<slug>-site` (GitHub Pages, Jekyll)
-- **Shared tools**: `lab-<tool>`
-- **Internal (private)**: `internal-<topic>`
+For more details about our research and a complete publication list, please
+refer to the **[TAMS Lab website](https://chentangmark.github.io/lab/)**.
 
-### Repo topics
-We use GitHub topics for discovery:
-- `project` (project repos)
-- domain tags like `robotics`, `autonomy`, `hri`, `motion-planning`, `trajectory-prediction`
+## About this GitHub organization
 
-## Getting started (lab members)
-1. Ask to be added to the org and the relevant **team**.
-2. Start new work from the templates:
-   - `template-research-code`
-   - `template-project-website`
-3. Before making a repo public, complete the **Release-to-Public Checklist** in the repo README.
-
-## Contact
-- Lab: UCLA TAMS Lab
-- Maintainers: see each repo's **Maintainers** section
+This GitHub organization is used to share research code, datasets, and software
+toolkits developed through TAMS Lab research, including public releases
+associated with our publications. Each public repository provides
+project-specific documentation, usage instructions, and citation information
+when applicable.
